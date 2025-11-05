@@ -179,6 +179,10 @@ footer {
     text-align: center;
     padding: 0.8rem 0;
   }
+
+  .navbar-brand span {
+    display: none !important; /* hides the "That (D)Transit Blog by DTransit" text */
+  }
 }
 @media (max-width: 576px) {
   #intro { height: 70vh; }
