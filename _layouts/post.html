@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>{{ page.title }} - {{ site.title }}</title>
-  <meta name="description" content="{{ site.description }}"/>
+  <meta name="description" content="{{ page.excerpt | strip_html | truncate: 160 }}"/>
 
   <!-- Favicon -->
   <link rel="icon" href="{{ '/assets/images/logo.jpg' | relative_url }}" type="image/jpg"/>
@@ -27,7 +27,7 @@
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg border-bottom sticky-top bg-white">
     <div class="container-fluid">
-      <a class="navbar-brand d-flex align-items-center" href="{{ '/' | relative_url }}">
+      <a class="navbar-brand d-flex align-items-center" href="{{ '/blog' | relative_url }}">
         <img id="logoimg" src="{{ '/assets/images/logo.jpg' | relative_url }}" alt="DTransit logo"/>
         <span class="ms-2">That (D)Transit Blog by DTransit</span>
       </a>
@@ -36,7 +36,7 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarMenu">
         <ul class="navbar-nav me-auto mb-2 mb-md-0 ms-4">
-          <li class="nav-item"><a class="nav-link" href="https://dtransit-main.github.io">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ '/blog' | relative_url }}">Back to Home</a></li>
         </ul>
         <ul class="navbar-nav ms-auto mb-2 mb-md-0">
           <li class="nav-item"><a class="nav-link" href="https://youtube.com/@DTransit" target="_blank"><i class="bi bi-youtube"></i></a></li>
@@ -48,54 +48,22 @@
     </div>
   </nav>
 
-  <!-- Video Background Intro (flex-centers content) -->
-  <header id="intro" role="banner">
-    <!-- absolute background video -->
-    <video autoplay muted loop playsinline id="main-bg-video" aria-hidden="true">
-      <source src="{{ '/assets/images/main-background-video.mp4' | relative_url }}" type="video/mp4"/>
-      <!-- fallback text -->
-      Your browser does not support the video tag.
-    </video>
-
-    <!-- overlay (semi-transparent) -->
-    <div id="video-overlay" aria-hidden="true"></div>
-
-    <!-- credit text (top-right) -->
-    <div id="video-credit-text">
-      <p>Footage in the video is from
-        <a href="https://www.youtube.com/@PRQRailfanning" target="_blank" rel="noopener noreferrer">PRQRailfanning</a>
-      </p>
-    </div>
-
-    <!-- CENTERED CONTENT: flex child, sits above overlay/video -->
-    <div id="hero-center" class="container">
-      <h1 id="hero-title">That (D)Transit Blog</h1>
-      <p id="hero-subtitle">News, insights, and deep dives into the world of public transit — the blog version of DTransit.</p>
-    </div>
-  </header>
-
-  <!-- Main Blog Content -->
+  <!-- Post Content -->
   <main class="container my-5">
-    <h2 class="text-center mb-5 site-title">Posts</h2>
+    <article class="post">
+      <header class="mb-4 text-center">
+        <h1 class="display-5 fw-bold">{{ page.title }}</h1>
+        <p class="text-muted">{{ page.date | date: "%B %d, %Y" }}</p>
 
-    <div class="row">
-      {% for post in site.posts %}
-        <div class="col-md-6 mb-4">
-          <article class="card shadow-sm blog-card">
-            {% if post.cover %}
-              <img src="{{ post.cover | relative_url }}" class="card-img-top" alt="{{ post.title }} cover image">
-            {% endif %}
-            <div class="card-body">
-              <h3 class="card-title">
-                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-              </h3>
-              <p class="card-text text-muted">{{ post.date | date: "%B %d, %Y" }}</p>
-              <p class="card-text">{{ post.excerpt }}</p>
-            </div>
-          </article>
-        </div>
-      {% endfor %}
-    </div>
+        {% if page.cover %}
+        <img src="{{ page.cover | relative_url }}" alt="{{ page.title }} cover image" class="img-fluid rounded mb-4 shadow"/>
+        {% endif %}
+      </header>
+
+      <div class="post-body">
+        {{ content }}
+      </div>
+    </article>
   </main>
 
   <!-- Footer -->
