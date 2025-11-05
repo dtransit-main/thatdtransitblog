@@ -159,6 +159,26 @@ footer {
     font-size: 4vw !important;
     text-align: center;
   }
+    .navbar-collapse {
+    text-align: center; /* center text inside collapse */
+  }
+
+  .navbar-nav {
+    align-items: center; /* center the list of nav links */
+    justify-content: center;
+    width: 100%;
+  }
+
+  .navbar-nav .nav-item {
+    width: 100%; /* each link takes full width for neat stacking */
+  }
+
+  .navbar-nav .nav-link {
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 0.8rem 0;
+  }
 }
 @media (max-width: 576px) {
   #intro { height: 70vh; }
