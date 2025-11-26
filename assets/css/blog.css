@@ -136,7 +136,7 @@
 
 .post-body {
   font-family: 'Open Sans', sans-serif;
-  font-size: 1rem; /* base size for desktop */
+  font-size: 1.3rem; /* base size for desktop */
   font-weight: 400; /* 900 is very heavy, might be better for headings */
   line-height: 1.6;
 }
