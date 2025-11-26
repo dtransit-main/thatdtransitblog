@@ -12,6 +12,11 @@
   </script>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ page.cover | absolute_url }}">
   <title>{{ page.title }} - {{ site.title }}</title>
   <meta name="description" content="{{ page.excerpt | strip_html | truncate: 160 }}"/>
 
