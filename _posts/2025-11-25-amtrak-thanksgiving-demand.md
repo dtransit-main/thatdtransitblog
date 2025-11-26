@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Amtrak's Increasing Thanksgiving Demand - A Positive Sign of the Future"
+title: "Amtrak's Increasing Thanksgiving Demand - How It's The Start of a New Era of Rail in the USA"
 date: 2025-11-25 10:00:00 -0500
 excerpt: "Amtrak is reporting record-high booking rates for the 2025 Thanksgiving holiday period - it's another sign of the continuing trend of Americans moving over to rail. But fleet and reliability issues have plagued the agency, leading to limited services and capacity constraints. Let's break down the increasing demand, and how the time is ripe for Amtrak to turn into A New Era of Rail."
 cover: /assets/images/thanksgiving2025.png
