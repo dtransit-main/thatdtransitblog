@@ -3,7 +3,7 @@ layout: post
 title: "Amtrak's Increasing Thanksgiving Demand - A Positive Sign of the Future"
 date: 2025-11-25 10:00:00 -0500
 excerpt: "Amtrak is reporting record-high booking rates for the 2025 Thanksgiving holiday period - it's another sign of the continuing trend of Americans moving over to rail. But fleet and reliability issues have plagued the agency, leading to limited services and capacity constraints. Let's break down the increasing demand, and how the time is ripe for Amtrak to turn into A New Era of Rail."
-cover: assets\images\thanksgiving2025.png
+cover: "{{ site.baseurl }}/assets/images/thanksgiving2025.png"
 categories: [Amtrak]
 tags: [Amtrak, Thanksgiving, USA]
 ---
@@ -18,13 +18,13 @@ Amtrak operates routes across the nation, but the vast majority of its ridership
 
 Typically, the majority of its riders on intercity and regional services, especially on the NEC, are business travelers or commuters - which makes surging holiday travel demand on Amtrak that much more important. In 2024, <a href="https://media.amtrak.com/2025/11/thanksgiving-travel-2025-infographic/" target="_blank" rel="noopener noreferrer">Amtrak cited</a> that 1.2 million passengers chose to travel by rail over the Thanksgiving holiday weekend, up 4.2% from the previous year. The Sunday after Thanksgiving, more than 144,000 passengers rode Amtrak in a single day, driven primarily by people returning home and by college students returning to their universities. 81% of these passengers traveled less than 250 miles on Amtrak services, while roughly 16% of passengers traveled anywhere from 250 miles or greater. I included a graphic from Amtrak's Media Center looking back on Thanksgiving 2024 statistics below!
 
-![](assets\images\ThanksgivingInfographic_2025.png)
+![](/assets/images/ThanksgivingInfographic_2025.png)
 
 This year, though, the prelude building up to Thanksgiving looked slightly different. A shutdown of the United States federal government, caused by a failure to pass a 2026 fiscal year budget from Congress, sent many government services and operations into frenzy - included in this were the 11,000 air traffic controllers (ATCs) certified by the Federal Aviation Administration (FAA) that keep America's airspace running smoothly. A failed budget meant most government workers, including air traffic controllers went without pay, which caused severe reductions in personnel in some of the nation's busiest airspaces. To help keep airspaces safe and manageable for the reduced ATCs, the FAA mandated many airlines to reduce flights at busy airports, which caused severe delays and cancellations across the nation - see <a href="https://www.reddit.com/r/aviation/comments/1otqz0y/this_massive_queue_of_planes_at_newark_airport/" target="_blank" rel="noopener noreferrer">this video</a> of dozens of planes lined up, waiting to depart at Newark Liberty International Airport on November 10th.
 
 With Thanksgiving being a natural time of travel, many were worried that their seemingly-surefire travel plans would be sent into frenzy. To combat this, many turned to the other option that ensured they wouldn't have to drive - Amtrak. Ticket prices on Amtrak's website surged as people flocked to Amtrak services as a replacement for air travel - Amtrak's president sent out multiple notices encouraging riders to book trains early, as Amtrak was seeing record numbers of interest from passengers. The agency is projecting a new record-high ridership number over Thanksgiving weekend, breaking that 1.2 million number from last year - according to booking data, Amtrak is projecting a double-digit growth in riders from last year to this year. Additional cars are also being added to *Northeast Regional* services over November 25-30th, in an attempt to maximize ridership over America's busiest rail corridor.
 
-![](assets\images\AmtrakFutureCoverImage.png)
+![]({{ site.baseurl }}/assets/images/AmtrakFutureCoverImage.png)
 
 ## A Mildly Dim Present, but a REALLY Bright Future?
 
@@ -39,4 +39,4 @@ Beyond just Thanksgiving, Amtrak's fiscal year 2025 results proved that American
 
 (I think so).
 
-![](assets\images\AmtrakCheering.png)
+![]({{ site.baseurl }}/assets/images/AmtrakCheering.png)
