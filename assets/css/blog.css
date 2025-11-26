@@ -116,6 +116,24 @@
 }
 .blog-card h3 a:hover { color: #0307af; }
 
+
+.post header img {
+  max-width: 70%;        /* change to 60%, 50%, etc. if you want smaller */
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 15px;   /* optional aesthetic */
+}
+
+/* Images inside the article body */
+.post-body img {
+  max-width: 80%;        /* change to taste */
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 12px;   /* optional aesthetic */
+}
+
 .post-body {
   font-family: 'Open Sans', sans-serif;
   font-size: 1rem; /* base size for desktop */
@@ -230,6 +248,10 @@ footer {
 
   .navbar-brand span {
     display: none !important; /* hides the "That (D)Transit Blog by DTransit" text */
+  }
+  .post header img,
+  .post-body img {
+    max-width: 100%;
   }
 }
 @media (max-width: 576px) {
