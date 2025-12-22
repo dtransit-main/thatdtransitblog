@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Kathy Hochul’s MTA Bill Veto Was So Important"
-date: 2025-12-22 19:00:00 -0500
+date: 2025-12-22 9:00:00 -0500
 excerpt: "On Friday, December 19th, New York State Governor Kathy Hochul vetoed a bill that would have mandated two person train operation on all MTA New York City Subway services. Here's why her block was so important to the future of the NYC Subway."
 cover: /assets/images/HochulVeto/conductor.jpg
 categories: [NY MTA]
