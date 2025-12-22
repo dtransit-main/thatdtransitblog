@@ -47,7 +47,8 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarMenu">
         <ul class="navbar-nav me-auto mb-2 mb-md-0 ms-4">
-          <li class="nav-item"><a class="nav-link" href="https://dtransit-main.github.io">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="posts.html">All Posts</a></li>
+          <li class="nav-item"><a class="nav-link" href="https://dtransit-main.github.io">DTransit Home</a></li>
         </ul>
         <ul class="navbar-nav ms-auto mb-2 mb-md-0">
           <li class="nav-item"><a class="nav-link" href="https://youtube.com/@DTransit" target="_blank"><i class="bi bi-youtube"></i></a></li>
@@ -87,10 +88,11 @@
 
   <!-- Main Blog Content -->
   <main class="container my-5">
-    <h2 class="text-center mb-5 site-title">Posts</h2>
+    <h2 class="text-center mb-5 site-title">Recent Posts</h2>
+    <p class="text-center mb-3">To see all of my posts, <a href="posts.html">click here.</a></p>
 
     <div class="row">
-      {% for post in site.posts %}
+      {% for post in site.posts limit:3 %}
         <div class="col-md-6 mb-4">
           <article class="card shadow-sm blog-card">
             {% if post.cover %}
