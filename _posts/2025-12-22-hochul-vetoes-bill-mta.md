@@ -34,7 +34,7 @@ Upon the news of her veto, the president of the Transport Workers Union, John Sa
 
 On the other side of the aisle, a coalition of watchdog and business groups thanked Hochul for the veto. Transit advocate groups claimed that the bill was a direct attempt to raise the price of operating transit, going against the goal of cheaper transit that the MTA is striving for. The increased $10 million cost of two-person train operation would require the MTA to dip into their capital budget, siphoning money away from impending, necessary capital projects. A <a href="https://reinventalbany.org/2025/12/groups-thank-governor-hochul-for-vetoing-bill-prohibiting-mta-from-using-one-person-train-operation/" target="_blank" rel="noopener noreferrer">statement</a> from five of these groups said the bill would affect the MTA's efforts to provide "world-class public transit" by "raising MTA operating costs and constraining the MTA’s ability to implement modern operating methods, adopt new technologies, and provide better service for riders.”
 
-The vetoing of this bill also opens the door for the MTA to move further and further towards OPTO, reducing labor costs and aligning themselves with what is widely seen as a standard across the world.
+The vetoing of this bill also opens the door for the MTA to move further and further towards OPTO, reducing labor costs and aligning themselves with what is widely seen as a standard across the world. 
 
 ![]({{ site.baseurl }}/assets/images/HochulVeto/HochulPodium.jpg)
 
