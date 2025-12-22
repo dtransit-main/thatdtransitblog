@@ -7,5 +7,3 @@ theme: null
 markdown: kramdown
 plugins:
   - jekyll-feed
-paginate: 12  
-paginate_path: "/posts/page:num/"

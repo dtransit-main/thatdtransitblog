@@ -49,7 +49,6 @@
       <div class="collapse navbar-collapse" id="navbarMenu">
         <ul class="navbar-nav me-auto mb-2 mb-md-0 ms-4">
           <li class="nav-item"><a class="nav-link" href="https://dtransit-main.github.io/thatdtransitblog">Blog Home</a></li>
-          <li class="nav-item"><a class="nav-link" href="https://dtransit-main.github.io">DTransit</a></li>
         </ul>
         <ul class="navbar-nav ms-auto mb-2 mb-md-0">
           <li class="nav-item"><a class="nav-link" href="https://youtube.com/@DTransit" target="_blank"><i class="bi bi-youtube"></i></a></li>
@@ -63,7 +62,7 @@
 
   <main class="container my-5">
     <div class="row">
-    {% for post in paginator.posts %}
+    {% for post in site.posts %}
         <div class="col-md-4 mb-4">
         <article class="card shadow-sm blog-card h-100 d-flex flex-column">
             {% if post.cover %}
@@ -81,32 +80,6 @@
         </div>
     {% endfor %}
     </div>
-
-    <nav aria-label="Page navigation" class="mt-4">
-    <ul class="pagination justify-content-center">
-        {% if paginator.previous_page %}
-        <li class="page-item">
-            <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}">Previous</a>
-        </li>
-        {% else %}
-        <li class="page-item disabled"><span class="page-link">Previous</span></li>
-        {% endif %}
-
-        {% for page_num in (1..paginator.total_pages) %}
-        <li class="page-item {% if page_num == paginator.page %}active{% endif %}">
-            <a class="page-link" href="{{ paginator.page_path | relative_url | replace: ':num', page_num }}">{{ page_num }}</a>
-        </li>
-        {% endfor %}
-
-        {% if paginator.next_page %}
-        <li class="page-item">
-            <a class="page-link" href="{{ paginator.next_page_path | relative_url }}">Next</a>
-        </li>
-        {% else %}
-        <li class="page-item disabled"><span class="page-link">Next</span></li>
-        {% endif %}
-    </ul>
-    </nav>
   </main>
 
   <footer>
