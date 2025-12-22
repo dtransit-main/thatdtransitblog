@@ -93,7 +93,7 @@
 
     <div class="row">
       {% for post in site.posts limit:3 %}
-        <div class="col-md-6 mb-4">
+        <div class="col-md-4 mb-4">
           <article class="card shadow-sm blog-card">
             {% if post.cover %}
               <img src="{{ post.cover | relative_url }}" class="card-img-top" alt="{{ post.title }} cover image">

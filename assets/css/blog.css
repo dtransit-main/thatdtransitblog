@@ -114,7 +114,15 @@
   text-decoration: none;
   transition: color 0.25s;
 }
+
 .blog-card h3 a:hover { color: #0307af; }
+
+.blog-card img {
+  width: 100%;
+  height: 200px; /* same height for all images */
+  object-fit: cover; /* crops the image to fit uniformly */
+}
+
 
 
 .post header img {
