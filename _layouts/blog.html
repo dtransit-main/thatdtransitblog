@@ -93,12 +93,14 @@
 
     <div class="row">
       {% for post in site.posts limit:3 %}
-        <div class="col-md-4 mb-4">
-          <article class="card shadow-sm blog-card">
+        <div class="col-12 col-md-6 col-lg-4 mb-4">
+          <article class="card shadow-sm blog-card h-100">
             {% if post.cover %}
-              <img src="{{ post.cover | relative_url }}" class="card-img-top" alt="{{ post.title }} cover image">
+              <div class="card-img-wrapper">
+                <img src="{{ post.cover | relative_url }}" class="card-img-top" alt="{{ post.title }} cover image">
+              </div>
             {% endif %}
-            <div class="card-body">
+            <div class="card-body d-flex flex-column">
               <h3 class="card-title">
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
               </h3>
