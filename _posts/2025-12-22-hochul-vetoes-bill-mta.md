@@ -28,7 +28,8 @@ The bill swiftly passed both houses of the New York State Legislature, passing t
 
 On Friday, December 19th, Kathy Hochul vetoed Assembly Bill 4873. In her memo, she wrote 
 
-<center>*"The bill would require MTA New York City Transit (NYCT) to discontinue its current safe One Person Train Operation (OPTO) program, which is already subject to, and limited in scope by, collective bargaining agreements. The bill would cost as much as $10 million annually, reducing service, and limiting the MTA's ability to benefit from capital investments in modern rolling stock and signals. OPTO is safe; NYCT has successfully run OPTO for over two decades, and the program is widely utilized in mass transit systems throughout the nation and across the globe."*</center>
+_<center>"The bill would require MTA New York City Transit (NYCT) to discontinue its current safe One Person Train Operation (OPTO) program, which is already subject to, and limited in scope by, collective bargaining agreements. The bill would cost as much as $10 million annually, reducing service, and limiting the MTA's ability to benefit from capital investments in modern rolling stock and signals. OPTO is safe; NYCT has successfully run OPTO for over two decades, and the program is widely utilized in mass transit systems throughout the nation and across the globe."</center>_
+
 
 Upon the news of her veto, the president of the Transport Workers Union, John Samuelsen, wrote a scathing post on X claiming that "blue collar New Yorkers overwhemingly support" the bill and called the veto "futile." John Chiarallo, the president of the local chapter of TWU, TWU Local 100, stated disappointment in Hochul's decision, but remarked that the existing contract prohibits any unsanctioned expansion of OPTO across the system, so the union intends to continue operating trains with two personnel, as agreed upon with the MTA. 
 
