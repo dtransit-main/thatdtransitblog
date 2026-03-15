@@ -15,9 +15,13 @@ But whilst it's considered the forefront of passenger railroading in the United 
 
 ![]({{ site.baseurl }}/assets/images/PortalBridgeNorthOpens/Newark-NY-Infra.jpg)
 
+<p class="caption"><small><em>An image depicting the infrastructure on the Northeast Corridor between Newark Penn Station (NJ) and New York Penn Station (NY)</em></small></p>
+
 The infrastructure in this area consists of a mixture of bridges and tunnels, all built by the Pennsylvania Railroad (PRR) at least 100 years ago - when they first completed their New York Tunnel Extension project to link their greater railroad network with Manhattan, and what is now the Long Island Rail Road. Over time, the bridges and tunnels have continued to decay, presenting severe issues to the ever-increasing services of New Jersey Transit and Amtrak. For today's article, we're looking specifically at the Portal Bridge.
 
 ![]({{ site.baseurl }}/assets/images/PortalBridgeNorthOpens/OldPortalBridge.jpg)
+
+<p class="caption"><small><em>An image of the old, 110-year-old Portal Bridge.</em></small></p>
 
 ### What is the Portal Bridge?
 The Portal Bridge is a two-track, swing span bridge that crosses the Hackensack River, in the marshy Meadowlands region of northern New Jersey. Inaugurated in 1910 by the PRR, the swing-span bridge carries over 200,000 passengers to and from New York Penn Station every day. The bridge has acted as a solution to the allowance of marine traffic under it, swinging open to let boats pass when the rail corridor quiets down - bridge openings are barred during the rush hour periods. With each turn, however, the bridge degrades, and over its 100-plus year lifespan, more and more issues occurred with alignment and turning when the Portal Bridge opened and closed. The bridge has failed to close properly at least once every seven times that it was opened, and on most occasions, Amtrak personnel would have to walk out to the track, and sledgehammer the bridge to align the rails. By the 2000s, speed on the bridge was limited to 60 miles per hour, a sharp decrease from the surrounding 90 mile-per-hour speed limit.
@@ -30,17 +34,23 @@ In 2008, the Federal Railroad Administration dished a $1 billion grant to Amtrak
 
 ![]({{ site.baseurl }}/assets/images/PortalBridgeNorthOpens/GatewayProgram.jpg)
 
+<p class="caption"><small><em>An image depicting the planned result of the Gateway Program.</em></small></p>
+
 The plans called for a new, two-track, fixed-span bridge that would sit at double the height of the old Portal Bridge, and allow for increased speeds along the bridge to match that of the surrounding infrastructure. Costs were estimated at around $2 billion dollars, a large portion of the $16 billion total that makes up the entire Gateway Program. After continual delays, earmarked by pushbacks from the first Trump administration between 2017-2021 (although the President gave his approval for the project late in his first term), construction began in 2022, backed by increased funding from President "Amtrak Joe" Biden and his Department of Transportation. One of the project's biggest boasts is that, over the course of its 4 year construction period, the project has been entirely on-time and on-budget, with no extra, unpredicted costs or lengthy delays. The three bridge arches were floated into place at the end of 2024 and beginning of 2025, after they were built and subsequently sent down the Hudson River from the Albany region of upstate New York. 
 
 ![]({{ site.baseurl }}/assets/images/PortalBridgeNorthOpens/PortalArchesRiver.jpg)
 
+<p class="caption"><small><em>The Portal North Bridge's arches float down the Hudson River from upstate New York.</em></small></p>
+
 By mid-to-late 2025, trackage, electrical and signalling systems had been largely setup and put in place - the last piece of the puzzle was a cutover process, from the 14th of February to the 15th of March. A cutover process is where workers link the trackage of the active rail line with the new trackage of the bridge, the most frustrating process for anyone traveling along the Northeast Corridor. The process required closing one of the two active tracks on the old Portal Bridge, forcing Amtrak and New Jersey Transit to cut their services by nearly 50% into and out of New York City. This meant heavily reduced Northeast Regional and Acela service, and the diversion of 3 of the 6 New Jersey Transit lines that serve New York Penn to instead run all their trains to heavily overloaded Hoboken Terminal. Over the 30-day cutover period, which started on the 14th of February, a historic blizzard impacted the area, and Hoboken Terminal was swamped with extra passengers attempting to make a transfer via bus, PATH or ferry to Manhattan.
-To Amtrak and NJ Transit's credit, the cutover process stayed on schedule, and actually finished early, allowing Governor Mikie Sherrill to ride the inaugural train over the bridge a few days before the cutover period finished officially - which brings us to today, March 13th.
+To Amtrak and NJ Transit's credit, the cutover process stayed on schedule, and actually finished early, allowing Governor Mikie Sherrill to ride the inaugural train over the bridge a few days before the cutover period finished officially - which brings us to Friday, March 13th.
 
 ### Success...in the most NJ Transit way ever
-Why talk about this today, rather than waiting until trains actually start running over the bridge operationally? Well.
+Why talk about this in regard to March 13th, rather than waiting until trains actually start running over the bridge operationally (March 15th)? Well.
 
-[picture of infrastructure bent from Amtrak]
+![]({{ site.baseurl }}/assets/images/PortalBridgeNorthOpens/OldPortalBentPole.jpg)
+
+<p class="caption"><small><em>A catenary structure was heavily damaged on the morning of March 13th, leading to heavy delays and cancelations.</em></small></p>
 
 Early in the morning of Friday, March 13th, extreme damage occurred to one of Amtrak's catenary poles - which hold up the electrical lines trains use for power - near the entrance to the old Portal Bridge, rendering those tracks unusable. On any other day, this would've required a complete suspension to and from New York, as both tracks on the old bridge were affected. As luck would have it, the new Portal North Bridge happened to be ready for operational use, and after a few hours of complete suspension, rail traffic resumed on the single operational track of the Portal North Bridge. While trains had to single track and were severely affected with nearly an hour's delay, as a rider, it was easy to feel the difference on the new bridge. The trains did not slow to 60 miles per hour, instead maintaining their speeds, and the tracks were noticeably smoother as we crossed the Hackensack River. I just so happened to be using NJ Transit to get to the city, and grabbed a video - which you can find on my socials [LINK TO VIDEO]
 
